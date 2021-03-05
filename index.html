@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style/main.css">
+
+    <!--responsividade-->
+
+    <link rel="stylesheet" href="style/responsive.css">
+
+    <!-- arquivos owl css-->
+
+    <link rel="stylesheet" href="style/owl/owl.carousel.min.css">
+    <link rel="stylesheet" href="style/owl/owl.theme.default.min.css">
+    <title>NETFLIX CLONE</title>
+</head>
+<body>
+    <header>
+        <div class="container">
+            <img class= "logo" src="img/logo.png" alt="">
+            <nav>
+                <a href="#">Início</a>
+                <a href="#">Séries</a>
+                <a href="#">Filmes</a>
+                <a href="#">Documentários</a>
+            </nav>
+        </div>
+    </header>
+
+    <main>
+        <div class="filmeprincipal">
+            <div class="container">
+                <h3 class="titulo">BATMAN BEGINS</h3>
+                <p class="descricao">Em meio a uma ameaça tóxica e uma liga de assassinos, Bruce Wayne se vê forçado a enfrentar muito mais do que seus próprios demônios.</p>              
+            
+                <div class="botoes">
+                    <button role="button" class="botao" href="https://www.youtube.com/watch?v=qHhHIbNuok8" onclick=";window.location.href=this.getAttribute('href');return false;">                        
+                        <i class="fas fa-play"></i>   
+                        ASSISTIR AGORA
+                    </button>
+                    <button role="button" class="botao" href="https://www.themoviedb.org/movie/272-batman-begins?language=pt-BR" onclick=";window.location.href=this.getAttribute('href');return false;">
+                        <i class="fas fa-info-circle"></i>
+                        MAIS INFORMAÇÕES   
+                    </button>
+                </div>
+            </div>        
+        </div>
+    </main>
+
+    
+    <div class="carrosel-filmes">
+        <div class="owl-carousel owl-theme">
+                <div class="item">
+                    <img class="box-filme" src="img/foto1.jpg">
+                </div>
+                <div class="item">
+                    <img class="box-filme" src="img/foto2.jpg">
+                </div>
+                <div class="item">
+                    <img class="box-filme" src="img/foto3.jpg">
+                </div>
+                <div class="item">
+                    <img class="box-filme" src="img/foto4.jpg">
+                </div>
+                <div class="item">
+                    <img class="box-filme" src="img/foto5.jpg">
+                </div>
+                <div class="item">
+                    <img class="box-filme" src="img/foto6.jpg">
+                </div>
+                <div class="item">
+                    <img class="box-filme" src="img/foto7.jpg">
+                </div>
+                <div class="item">
+                    <img class="box-filme" src="img/foto8.jpg">
+                </div>
+                <div class="item">
+                    <img class="box-filme" src="img/foto9.jpg">
+                </div>
+                <div class="item">
+                    <img class="box-filme" src="img/foto10.jpg">
+                </div>
+        </div>
+    </div>
+
+    <script src="https://kit.fontawesome.com/f911981f66.js" crossorigin="anonymous"></script>
+
+    <!-- owl js-->
+
+    <script src="js/owl/jquery.min.js"></script>
+    <script src="js/owl/owl.carousel.min.js"></script>
+    <script src="js/owl/setup.js"></script>
+
+</body>
+</html>
