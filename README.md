@@ -5,16 +5,18 @@ Projeto proposto pela Digital One Inovation (https://web.digitalinnovation.one/)
 Nesse projeto, foi possível aprender :nerd_face: 
 
 - como estruturar um layout;
--  técnicas de CSS3 com containers e variáveis;
+
+- técnicas de CSS3 com containers e variáveis;
+
 - como posicionar os elementos com Flexbox;
--  como utilizar plugins jQuery e;
+
+- como utilizar plugins jQuery e;
+
 - responsividade.
 
+  
+
  :man_teacher: **Orientação**: Felipe Aguiar!
-
-Interface:
-
-![](C:\Users\mille\Desktop\BOOTCAMP\Projetos\netflix-interface-clone\interface.png)
 
 
 
