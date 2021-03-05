@@ -14,7 +14,7 @@ Nesse projeto, foi possível aprender :nerd_face:
 
 Interface:
 
-![interface](C:\Users\mille\Desktop\BOOTCAMP\Projetos\Netflix\interface.png)
+![](C:\Users\mille\Desktop\BOOTCAMP\Projetos\netflix-interface-clone\interface.png)
 
 
 
