@@ -1,6 +1,6 @@
 # RECRIANDO A INTERFACE DA NETFLIX :tv:
 
-Projeto proposto pela Digital One Inovation (https://web.digitalinnovation.one/) referente ao Bootcamp Avanade Angular Developer, cujo objetivo foi recriar a interface do principal site de *streaming* mundial utilizando tecnologias simples como HTML5, CSS3 e JavaScript. 
+Projeto proposto pela Digital Innovation One  (https://web.digitalinnovation.one/) referente ao Bootcamp Avanade Angular Developer, cujo objetivo foi recriar a interface do principal site de *streaming* mundial utilizando tecnologias simples como HTML5, CSS3 e JavaScript. 
 
 
 
