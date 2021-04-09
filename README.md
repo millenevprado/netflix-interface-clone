@@ -2,7 +2,7 @@
 
 Projeto proposto pela Digital Innovation One  (https://web.digitalinnovation.one/) referente ao Bootcamp Avanade Angular Developer, cujo objetivo foi recriar a interface do principal site de *streaming* mundial utilizando tecnologias simples como HTML5, CSS3 e JavaScript. 
 
-![capa](C:\Users\mille\Desktop\BOOTCAMP\Projetos\Netflix\netflix-interface-clone\img\capa.png)
+![capa](img/capa.png)
 
 Nesse projeto, foi possível aprender :nerd_face: 
 
